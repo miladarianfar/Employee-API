@@ -1,7 +1,7 @@
 
 # Employee-API
 
-A simple program for sending and receiving messages over the web
+A simple program for managing employees
 
 ## Technologies
 Project is created with:
