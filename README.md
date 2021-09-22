@@ -83,3 +83,13 @@ Project is created with:
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
 | `id`      | `int` | **Required**. id of user to delete |
+
+## Screenshots
+
+![App Screenshot](https://github.com/miladarianfar/Employee-API/blob/main/rest-employee/screenshots/Capture.PNG)
+
+![App Screenshot](https://github.com/miladarianfar/Employee-API/blob/main/rest-employee/screenshots/Capture2.PNG)
+
+![App Screenshot](https://github.com/miladarianfar/Employee-API/blob/main/rest-employee/screenshots/Capture3.PNG)
+
+![App Screenshot](https://github.com/miladarianfar/Employee-API/blob/main/rest-employee/screenshots/Capture4.PNG)
